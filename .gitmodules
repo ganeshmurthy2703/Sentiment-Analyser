@@ -1,3 +1,6 @@
 [submodule "JAVA_API"]
 	path = JAVA_API
 	url = https://github.com/ganeshmurthy2703/JAVA_API
+[submodule "PYTHON_API"]
+	path = PYTHON_API
+	url = https://github.com/ganeshmurthy2703/PYTHON_API
